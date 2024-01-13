@@ -1,0 +1,19 @@
+{
+  "name": "moss_api",
+  "version": "1.0.0",
+  "description": "Moss API backend",
+  "main": "srv/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billpatrianakos/moss_api.git"
+  },
+  "author": "Moss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/billpatrianakos/moss_api/issues"
+  },
+  "homepage": "https://github.com/billpatrianakos/moss_api#readme"
+}
