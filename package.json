@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/billpatrianakos/moss_api/issues"
   },
-  "homepage": "https://github.com/billpatrianakos/moss_api#readme"
+  "homepage": "https://github.com/billpatrianakos/moss_api#readme",
+  "dependencies": {
+    "bookshelf": "^1.2.0",
+    "express": "^4.18.2",
+    "knex": "^3.1.0",
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {
+    "sqlite3": "^5.1.7"
+  }
 }
